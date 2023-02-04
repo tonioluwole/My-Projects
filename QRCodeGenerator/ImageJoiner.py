@@ -1,3 +1,6 @@
+#Helper:
+# https://note.nkmk.me/en/python-pillow-concat-images/
+
 import sys
 import PIL.Image
 from tkinter import filedialog
